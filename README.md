@@ -15,9 +15,9 @@
 [![WebPack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/MRmlik12)
 
 # Editors
-
+[![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)]()
+[![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/MRmlik12)
 [![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/MRmlik12)
-[![Rider](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/MRmlik12)
 
 # My Stats
 [![MRmlik12 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MRmlik12&theme=tokyonight&langs_count=5)](https://github.com/MRmlik12)
